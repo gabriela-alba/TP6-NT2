@@ -138,7 +138,7 @@
 <script>
 
   export default  {
-    name: 'formulario',
+    name: 'src-componentes-formulario',
     props: [],
 
     /* ----------------------- LIFECYCLE HOOKS VUE ----------------------- */
@@ -165,7 +165,7 @@
         nombreMaxLength : 15,
         edadMinLength : 18,
         edadMaxLength : 120,
-        url : 'https://619488de9b1e780017ca1fcb.mockapi.io/datos',
+        url : 'https://619488de9b1e780017ca1fcb.mockapi.io/post',
         //url : 'https://jsonplaceholder.typicode.com/post'
         datos : [],
       }
