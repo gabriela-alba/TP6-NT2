@@ -44,7 +44,7 @@
     },
     data () {
       return {
-        url : 'https://619488de9b1e780017ca1fcb.mockapi.io/post',   // Prueba para muestreo en tabla datos posts
+        url : 'https://619488de9b1e780017ca1fcb.mockapi.io/post',   
         //url: 'https://61902556f6bf450017484b6f.mockapi.io/datos',
         datos : [],
         peticion: false
